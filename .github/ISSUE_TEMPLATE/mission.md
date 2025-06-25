@@ -7,11 +7,11 @@ assignees: 'AStarCale'
 ---
 ## Problem
 
-The problem I am addressing on this mission is...
+The problem is...
 
 ## Solution
 
-The solution that I'm addressing on this mission is...
+The solution is...
 
 ### File Affected
 
@@ -35,4 +35,4 @@ Mission
 
 ## License
 
-Copyright [Cooking with Cale](https://cookingwithcale.org); all rights reserved.
+Copyright [AStar Cale](https://astarcale.net); all rights reserved.

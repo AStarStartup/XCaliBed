@@ -35,4 +35,4 @@ Milestone
 
 ## License
 
-Copyright [Cooking with Cale](https://cookingwithcale.org); all rights reserved.
+Copyright [AStar Cale](https://astarcale.net); all rights reserved.
