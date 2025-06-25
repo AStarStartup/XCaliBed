@@ -2,6 +2,8 @@
 
 A calibration bracket to quickly, accurately, and repeatedly level your 3D printer beds. If you do not get your bed EXACTLY level, it will cause your roller bed to warp, making the bed loose, causing failed prints, layer shits, blob of death, and a host of problems. Make sure to level your bed before you print this with your caliber else garbage in garbage out.
 
+![XCaliBed 3D model image](./XCaliBed.png)
+
 ## License
 
 Copyright [AStar Cale](https://astarcale.net); most rights reserved, Open-source theft prohibited, closed-source commercial use allowed, licensed under the AStartup Weak Source-available License that YOU MUST CONSENT TO at <https://github.com/AStarStartup/XCaliBed>.

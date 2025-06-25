@@ -7,11 +7,11 @@ assignees: 'AStarCale'
 ---
 ## Problem
 
-The problem is...
+The problem is 
 
 ## Solution
 
-The solution is...
+The solution is [see title].
 
 ### File Affected
 
